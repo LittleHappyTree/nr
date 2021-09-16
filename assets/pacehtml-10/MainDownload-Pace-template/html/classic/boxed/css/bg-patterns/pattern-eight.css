@@ -1,0 +1,33 @@
+body {
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	background-image: url(../../images/elements/bg9.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center; 
+
+
+}
+@media only screen and (min-width: 1000px){}
+@media only screen and (min-width: 768px) and (max-width: 999px){
+
+body {
+	padding: 0px;
+	margin: 0px;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+body {
+	padding: 0px;
+	margin: 0px;
+}
+}
+
+@media only screen and (max-width: 479px){
+
+body {
+	padding: 0px;
+	margin: 0px;
+}
+}

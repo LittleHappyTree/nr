@@ -1,0 +1,10 @@
+-> Make a nice cover image for product
+
+-> Make nice functioning demo (user responsive device jquery plugin so that buyers can know what the product actually
+looks like in different devices)
+
+-> Add Real Data instead of dummy data in live demo
+
+-> Add Some good information on your product description using some attractive image
+
+-> Put the time into making your product right

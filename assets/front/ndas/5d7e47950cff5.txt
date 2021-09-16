@@ -1,0 +1,11 @@
+footer change
+
+home pages
+
+ -> hero section
+
+ -> remove quote section 
+
+Basic Settings
+
+ -> remove page headings instead breadcrumb texts
